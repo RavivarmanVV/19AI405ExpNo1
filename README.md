@@ -90,7 +90,8 @@ if __name__ == "__main__":
 ```
 
 ## Output:
-![alt text](<Screenshot (9).png>)
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/dc68a368-7e0e-4b8f-8159-285198eb9396" />
+
 
 
 <h3>Result:</h3>
